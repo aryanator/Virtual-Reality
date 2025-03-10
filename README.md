@@ -1,4 +1,3 @@
-```markdown
 # ⚽ Club-Based Player Explorer
 
 ## Dataset Source
